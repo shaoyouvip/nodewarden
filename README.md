@@ -53,6 +53,9 @@ English: [`README_EN.md`](./README_EN.md)
 - ⚠️ macOS 桌面端尚未完整验证
 
 ---
+## 详细的图文部署教程
+
+[NodeWarden 部署教程：在 Cloudflare 零成本搭建私有 Bitwarden 密码管理器，无需服务器 周润发博客](https://blog.zrf.me/p/NodeWarden-Bitwarden/)
 
 ## 网页部署
 
